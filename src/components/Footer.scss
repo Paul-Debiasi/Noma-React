@@ -1,0 +1,25 @@
+.footer {
+  height: 7vh;
+  background: #f1e2a5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  grid-column: 1;
+  grid-row: 8;
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+    width: 30%;
+    li {
+      color: black;
+    }
+  }
+  p {
+    color: black;
+    font-size: 14px;
+    letter-spacing: 3px;
+    margin-right: 5%;
+  }
+}

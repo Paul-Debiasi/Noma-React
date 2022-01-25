@@ -1,0 +1,64 @@
+.card-container {
+	.imageContainer {
+		grid-column: 1 / 4;
+		grid-row: 1;
+		img {
+			width: 50px;
+			display: flex;
+			background: rgba(255, 255, 255, 0.582);
+			justify-content: flex-end;
+		}
+	}
+	.hoverload {
+		grid-column: 1 / 4;
+		grid-row: 1;
+		background-color: white;
+		color: rgba(0, 0, 0, 0.829);
+		text-align: left;
+		padding: 8px;
+		line-height: 1rem;
+		a {
+			color: black;
+			cursor: pointer;
+			font-size: 18px;
+		}
+		p {
+			font-size: 14px;
+		}
+		ul {
+			display: flex;
+			list-style: none;
+
+			.icon {
+				font-size: 18px;
+				margin-right: 20px;
+			}
+		}
+	}
+
+	.weather {
+		grid-column: 4;
+		grid-row: 1;
+		background-color: white;
+		padding: 8px;
+	}
+
+	.imageContainer {
+		grid-column: 1/5;
+		grid-row: 2;
+		display: flex;
+		justify-content: flex-end;
+
+		svg {
+			color: black;
+			background-color: white;
+			padding: 6px;
+			font-weight: bold;
+			margin-top: 20px;
+			font-size: 35px;
+			&:hover {
+				cursor: pointer;
+			}
+		}
+	}
+}

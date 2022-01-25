@@ -1,0 +1,70 @@
+.Head {
+	box-sizing: border-box;
+	height: 7vh;
+	width: 100%;
+	color: black;
+	background-color: white;
+	grid-column: 1;
+	grid-row: 1;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	a {
+		font-size: 38px;
+		font-weight: 300;
+		color: black;
+		margin-left: 50px;
+		text-decoration: none;
+		h2 {
+			text-shadow: 4px 3px 0px #fff, 3px 10px 0px rgba(0, 0, 0, 0.466);
+			font-weight: bold;
+			grid-column: 1/5;
+			color: black;
+			&:hover {
+				text-shadow: 4px 3px 0px #fff, 3px 10px 0px #f1e2a5;
+			}
+		}
+	}
+	.Head-div {
+		width: 200px;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+		width: 30%;
+		input {
+			font-size: 18px;
+			font-family: Mont, sans-serif;
+			padding: 4px;
+			border: none;
+			outline: none;
+			width: 50%;
+			border-bottom: 2px solid black;
+			&::placeholder {
+				color: #333;
+				text-align: center;
+			}
+		}
+		.span {
+			position: relative;
+			left: -25px;
+			font-size: 22px;
+			font-weight: bold;
+			color: red;
+		}
+		.ToFav {
+			margin-right: 50px;
+			height: 100%;
+			display: flex;
+			align-items: center;
+			position: relative;
+		}
+		img {
+			border-radius: 50%;
+			padding: 8px;
+			width: 70px;
+			margin-right: 50px;
+		}
+	}
+}

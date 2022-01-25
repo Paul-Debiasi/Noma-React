@@ -1,0 +1,84 @@
+*,
+html,
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.firstContainer {
+	grid-column: 1;
+	grid-row: 2/4;
+	background: url(../images/firstContainerBack.png) no-repeat center;
+	background-size: cover;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	input {
+		font-size: 18px;
+		font-family: Mont, sans-serif;
+		padding: 4px;
+		border: none;
+		outline: none;
+		width: 20%;
+		&::placeholder {
+			color: #333;
+			text-align: center;
+		}
+	}
+	.icon {
+		font-size: 24px;
+		background-color: white;
+		height: 31px;
+		padding-right: 5px;
+		position: relative;
+	}
+}
+
+.secContainer {
+	grid-column: 1;
+	grid-row: 4/ 7;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: 50px 1fr;
+	margin: 0 50px;
+	gap: 50px;
+	h3 {
+		grid-column: 1/4;
+		grid-row: 1;
+		font-size: 29px;
+		font-weight: 300;
+		align-self: center;
+		margin-top: 50px;
+	}
+
+	@mixin LONDON {
+		display: grid;
+		place-content: center;
+		h4 {
+			background-color: rgba(255, 255, 255, 0.335);
+			padding: 10px;
+			color: #fff;
+			&:hover {
+				color: #f1e2a5;
+				background-color: rgba(0, 0, 0, 0.335);
+			}
+		}
+	}
+	.LONDON {
+		@include LONDON;
+		background: url(../images/London.jpg) bottom no-repeat;
+		background-size: cover;
+	}
+	.CHANDRASHILA {
+		@include LONDON;
+		background: url(../images/Chandrashila.png) center no-repeat;
+		background-size: cover;
+	}
+	.PHUKET {
+		@include LONDON;
+		background: url(../images/Phuket.jpg) center no-repeat;
+		background-size: cover;
+	}
+}

@@ -1,0 +1,904 @@
+[
+    {
+        "ID": 1,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Potsdamer Straße 182, 10783, Berlin, Deutschland",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "This beautiful coworking space is in Berlin Schöneberg on the 4th and 5th floor on a total area of 1500m². This centre offers work desks in the two big coworking areas or you can rent your own office. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/02/rent24-logo-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/02/UNADJUSTEDNONRAW_thumb_b3-705x470.jpg",
+        "name": "rent24",
+        "site": "http://www.rent24.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 2,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Am Speicher 11-15, Berlin, Deutschland",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "If you know someone who's looking for a space to grow their business, then Spaces by mondough is the way to go.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2016/12/logo_mondough_spaces-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/12/Artboard-1@2x-705x261.png",
+        "name": "mondough io",
+        "site": "http://www.mondough.io/spaces?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 3,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Adalbertstraße 8, Berlin, Germany",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "We aim to provide an affordable work space for freelancers and other mobile workers, combining the relaxed and social atmosphere of a coffee shop with the infrastructure and productivity of an office. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/01/sticker_50mm_zps4ce9392a-200x200.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/01/a64f8d2b-dae1-43c5-87d1-c155ea309f58_zpsc8697624-705x423.png",
+        "name": "Co Up",
+        "site": "http://co-up.de/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 4,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Grünberger Straße 48, Berlin, Deutschland",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "We are a coworking space, a platform where creative people come together to develop their professional projects and share knowledge, creating a relaxed working atmosphere in which creativity is encouraged.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/01/logo_textura-200x200.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/01/esdip_space-705x516.png",
+        "name": "ESDIP",
+        "site": "http://esdipberlin.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 5,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Prenzlauer Allee 186, Berlin, Deutschland",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "'Wonder - Women's Coworking' is a new coworking space for women in Berlin.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/08/Wonder_1-200x68.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/08/IMG_5993-705x705.jpg",
+        "name": "Wonder - Women",
+        "site": "https://www.wonder-coworking.de/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 6,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Lübecker Straße 46, Berlin, Deutschland",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "CoWorking in a creative surrounding in the heart of Berlin - welcome to fritz46. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/07/Logo_fritz46_s-200x174.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/07/fritzpan1-705x177.jpg",
+        "name": "fritz46",
+        "site": "http://www.fritz46.de/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 7,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Office Club Berlin Prenzlauer Berg, Pappelallee, Berlin, Deutschland",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "Give your business a home. Office Club Berlin Prenzlauer Berg is a highly communicative and attractive coworking space right in the middle of Berlin’s vibrant Prenzlauer Berg district. . ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/03/office-club-logo-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/03/office-club-coworking-space-705x470.jpg",
+        "name": "Office Club Berlin Prenzlauer Berg",
+        "site": "http://www.officeclub.com/en/locations/berlin-prenzlauer-berg/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 8,
+        "country": "Germany",
+        "city": "Berlin",
+        "map": {
+            "address": "Prinzessinnenstraße 19-20, 10969, Berlin, Deutschland ",
+            "lat": "51.5255905",
+            "lng": "-0.2549043999999867"
+        },
+        "description": "betahaus is a coworking pioneer. We opened our first location in Berlin in 2009. Now we have one in Hamburg, Sofia (BG) and Barcelona (ES)",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/01/logo_betahaus_schwarz_gr%C3%BCn-200x200.jpeg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/01/SteBo_7107_Mid-705x470.jpg",
+        "name": "betahaus | Berlin",
+        "site": "http://www.betahaus.de/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 9,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "98 Victoria Road, London NW10 6NB, United Kingdom",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Co Work Hub is one of the biggest coworking shared offices in West London. At almost 10,000 sq ft, with excellent transport links Co Work Hub is ideally located to be the premier workspace for businesses. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2016/12/2015-10-02_10-48-31-625173_Hubble_CoWork022.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/12/2015-10-02_10-48-31-625173_Hubble_CoWork022.jpg",
+        "name": "Cowork Hub",
+        "site": "https://coworkingmap.org/cowork-hub/"
+    },
+    {
+        "ID": 10,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "115 Coventry Road, Bethnal Green, E2 6GG",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Bethnal Green is a classic rags-to-riches stories, having transformed itself from being one of the capital’s poorest areas in the Victorian times to the trendy hub it now is for both residents and workers.  ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-17-at-11.11.32-AM1.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/03/PBclubcafe_lowres-705x467.jpg",
+        "name": "Club Workspace Bethnal Green",
+        "site": "http://club.workspacegroup.co.uk/club-workspace/club-workspace-bethnal-green/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 11,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "115 Coventry Road, Bethnal Green, E2 6GG",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "We are a friendly, funky and forward thinking coworking space in the heart of the tech community.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/11/studioshoreditch-logo-200x45.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/11/446-705x435.jpg",
+        "name": "Studio Shoreditch",
+        "site": "http://www.studioshoreditch.co.uk/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 12,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "1 Bath Street, London EC1V, United Kingdom",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Techspace provides businesses with a flexible working environment with the quality and comfort associated with having your own offices, coupled with the advantage of being part of a thriving tech community.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/02/Techspace_Logo-Vector-200x62.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/02/IMG_0626-705x470.jpg",
+        "name": "Techspace London",
+        "site": "http://www.techspacelondon.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 13,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "27 Dingley Place, London, UK",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "At Impact Hub Islington, we believe a better world is created through the combined accomplishments of creative, committed and compassionate individuals focused on a common purpose.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/05/REDsquareDG.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/05/chris-king-photography_impact-hub-islington-93-705x470.jpg",
+        "name": "Impact Hub Islington",
+        "site": "http://islington.impacthub.net/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 14,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "4-5 Bonhill Street, London, United Kingdom",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "TechHub is the global community for tech product entrepreneurs and startups. We’ve worked with 4000+ tech product companies throughout the past 7 years to help them scale at home and globally.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/01/techhub_3d_logo-2-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/01/campus-flex1-highfive-705x397.jpg",
+        "name": "TechHub @Campus",
+        "site": "https://london.techhub.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 15,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": " 20 Ropemaker Street, London, United Kingdom",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Our companies have been acquired by the likes of Facebook, Twitter, Google, Microsoft and most recently Oracle and have raised over $1B.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/01/techhub_3d_logo-1-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/01/DSCF4535_resize-705x397.jpg",
+        "name": "TechHub London",
+        "site": "https://london.techhub.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 16,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "London EC1A 9PT, United Kingdom",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Formed by a group of entrepreneurs in collaboration with the City of London Corporation, Innovation Warehouse is a Tech City Business Accelerator that provides high growth & high impact startups with Coworking space, Mentoring and Angel Investment. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/02/IW_Wordmark__with_perfect1-200x64.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/02/DSC_0314-705x468.jpg",
+        "name": "Innovation Warehouse",
+        "site": "http://www.innovationwarehouse.org/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 17,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "24 King William Street, London, UK",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Welcome to Meet in Place, London, where well-appointed interiors mingle with superior services. Near the iconic monument, Meet in Place King William St. offers up the best of historic London combined with the City’s bustling financial centre - perfect for meetings, conferences and off-sites.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2020/05/logo-1-5-scaled-200x55.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2020/05/1-entire-site-1-705x471.jpg",
+        "name": "Meet in Place – Monument, King William St, LDN",
+        "site": "https://www.meetinplace.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 18,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "Rainmaking Loft, Saint Katharine's Way, London, United Kingdom",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Rainmaking Loft is a startup hub, set up by an international partnership of serial entrepreneurs with offices in Berlin, London and Copenhagen. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/02/loft_square_black_bg-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/02/galerie-14985-org-copy.jpg",
+        "name": "Rainmaking Loft",
+        "site": "https://www.meetinplace.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 19,
+        "country": "United Kingdom",
+        "city": "London",
+        "map": {
+          "address": "Rainmaking Loft, Saint Katharine's Way, London, United Kingdom",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Rainmaking Loft is a startup hub, set up by an international partnership of serial entrepreneurs with offices in Berlin, London and Copenhagen. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/02/loft_square_black_bg-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/02/galerie-14985-org-copy.jpg",
+        "name": "Rainmaking Loft",
+        "site": "https://www.meetinplace.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 20,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Carrer d'En Grassot, 97, Barcelona, Spain",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Forget the idea of working from home! Changes sleepwear for your favorite clothes and coffee by accompanied coffee! We are a collaborative entrepreneurial space.We organize conferences, workshops, training and presentations! ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/01/nidok-logo-200x135.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/01/IMG_1812-1-705x470.jpg",
+        "name": "nidok coworking",
+        "site": "http://www.nidok.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 21,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Travessera de Gràcia, 214, 08025 Barcelona, España",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "CommsTogether, a coworking space at Gràcia (Barcelona · Catalonia · Spain).; )",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/01/Logo-CommsTogether-200x205.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/01/IMG_6417-2-705x264.png",
+        "name": "CommsTogether",
+        "site": "http://www.commstogether.cat/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 22,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Carrer de Mallorca, 103, Barcelona, Spain",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Factory 103 is your creative space: coworking, meeting rooms and the place to organize all kinds of corporate events. Located in the heart of the Eixample, a unique lively coworking make your dreams come true.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/06/Untitled15-200x197.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/06/Untitled9-705x460.png",
+        "name": "Factory103",
+        "site": "http://www.factory103.es/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 23,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Carrer del Planeta, 12, 08012 Barcelona, España",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Just as its name implies this place is filled with exuberant plants that add to the calm, alternative and very friendly environment. ",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/06/avatar-tumblr-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/06/HOME-gardencoworking-705x529.jpg",
+        "name": "GARDEN :: coworking space + atelier",
+        "site": "http://www.gardencoworkingatelier.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 24,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Carrer de Pau Claris, 186, 08037 Barcelona, Barcelona, España",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "BCNDOC is a business center located in Barcelona center, it has offices, meeteing rooms, and coworking zone to let you grow up, giving you support in all you need while you just dedicate to work.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/07/BCNDOC-logo-peque%C3%B1o.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/07/BCNDOC-business-center-Barcelona-705x470.jpg",
+        "name": "BCNDOC Business center Barcelona",
+        "site": "http://www.bcndoc.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 25,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Spain",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Located in a building from the 19th century in the Plaza Real of Barcelona, The Foundery is a unique place: 650 m2 of workspace, for meetings and events, with a huge terrace with privileged views over the city’s gothic quarter",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/11/logo-sin-texto-200x197.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/11/TheFounderyRecepcion-705x529.jpg",
+        "name": "The Foundery",
+        "site": "https://www.gofoundery.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 26,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Carrer de Manso, 17, 08015 Barcelona, España",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "A POST-MODERN INTERPRETATION OF THE OFFICE The ideal spot for nomad workers tired from working or studying from home or from crowded cafés and for all people looking for a different place to read a book quietly, concentrate, or change the world! No strings attached as you pay per hour.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/02/Logo-coco-carre%CC%81-200x200.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/02/living-room-coco-web-705x464.jpg",
+        "name": "Coco Coffice",
+        "site": "http://www.cofficebarcelona.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 27,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Passatge d'Aymà, 6, Barcelona, Spain",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Coworning in Barcelona, Poblenou, 230 sqm for 16 coworkers, 100 sqm of a great terrace and all the facilities needed for a professional work environment.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/05/logo-05-200x96.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/05/coworking-poblenou-eclektic-taules1-c%C3%B2pia-705x470.jpg",
+        "name": "ECLEKTIC SPACE",
+        "site": "https://www.eclekticspace.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 28,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Diagonal, 237, 08013 Barcelona, España",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Diagonal237 is a technological TIC coworking space where we help coworkers to networking as much as posible between them. We have our own datacenter where we can host and house websites of programmers and third parties.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/05/logo-cuadrado-coworking-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/05/Entrada-705x470.jpg",
+        "name": "DIAGONAL237",
+        "site": "http://www.diagonal237.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 29,
+        "country": "Spain",
+        "city": "Barcelona",
+        "map": {
+          "address": "Carrer del Bruc, 149, Barcelona, Spanje",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Depot Lab is the co-working space / incubator in Barcelona for creative, innovative entrepreneurs & companies. We have private office space as well (600m2).",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/12/21317740_804573536390207_397774911477290723_n-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/12/zxqt4_view.0-705x470.jpg",
+        "name": "DepotLab Eixample",
+        "site": "https://www.depotlabbcn.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 30,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "10 Rue Chauchat, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "La Poussinade est un espace de coworking Français destiné à tous les entrepreneurs qui ont envie de vivre pleinement leur aventure.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/05/Poussinade-LOGO2-2-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/05/Bureaux-des-fondateurs_La-Poussinade-705x270.jpg",
+        "name": "La Poussinade-Paris",
+        "site": "http://www.la-poussinade.fr/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 31,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "84 Quai de Jemmapes, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "La Ruche is a space dedicated to social entrepreneurs, innovators convinced that social impact and economic activity are compatible. La Ruche hosts and helps a community of social entrepreneurs thanks to collaborative tools and a dynamic network. Welcome !",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/02/logo-+-baseline-la-ruche-transp-200x91.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/02/photoLR-705x458.jpg",
+        "name": "La Ruche",
+        "site": "http://www.la-ruche.net/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 32,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "5 Rue Taylor, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Notre espace de coworking s'adresse à tous les entrepreneurs, consultants, freelances, stratupers à la recherche d'un lieu inspirant pour travailler (art, musique, design, lumière), avec leur espace de travail à eux, et souhaitant contribuer à la vie d'une communauté d'entrepreneurs chaleureux et dynamiques.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2016/07/Espace-0-200x118.jpeg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/07/Espace-5-705x278.jpeg",
+        "name": "LA COMPAGNIE – Inspiring Space for Inspired Work",
+        "site": "http://lacompagnie.paris/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 33,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "57 Rue de Turbigo, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Remix Coworking. Lieux de coworking pour créateurs et créatifs .Coworking spaces for artists, creatives and entrepreneurs",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/05/Logo-+-accroche-Remix-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/05/Openspace2-Appart-Coworking1-705x470.jpg",
+        "name": "Remix Coworking Turbigo",
+        "site": "http://remixcoworking.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 34,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "61 Rue Traversière, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "La Cordée is a network of several small and lively coworking spaces, where 700+ members work, share and enjoy theirs days together.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/05/CORDEE_STICKERS-04-200x207.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/05/MG_2118-reduite-705x470.jpg",
+        "name": "La Cordée – Paris Gare de Lyon",
+        "site": "http://www.la-cordee.net/cordee/paris/la-cordee-paris-gare-de-lyon/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 35,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "19 Rue Claude Bernard, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "The Office is a coworking space in heart of Paris.Because of the interior design the space feels very spacious and very confortable!",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/03/photo1-101073-200x133.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/03/bloggif_58cbbc00ddf0d-705x470.jpeg",
+        "name": "The Office",
+        "site": "https://www.theoffice-paris.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 36,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "5 Impasse Mousset, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Proche de la Gare de Lyon, située dans une impasse très calme et agréable, la Villa Lemons vous propose la location de postes de travail dans un espace spécialement dédié au coworking.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2016/09/Logo-Socie%CC%81te%CC%81-Villa-Lemons-location-salle-200x171.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/09/Villa-Lemons-cour-interieure-socie%CC%81te%CC%81-de-location-705x469.jpg",
+                "name": "Villa Lemons",
+                "site": "http://www.villalemons.fr/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 37,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "77 Avenue de la République, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "350m2, 60 seats, 4 meeting rooms, 1 phoning room, 1 resting room, 1 kitchen and 1 community !",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/02/logo-dojocrea2-200x45.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/02/dojo-saint-maur-bureau2-705x353.jpg",
+        "name": "Dojo Dynamique",
+        "site": "http://www.dojocrea.fr/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 38,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "13-15 Rue Vandrezanne, 75013 Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Nous disposons d'un espace de 400m2 place d'italie où l'ensemble de ces freelances, tous spécialistes dans différents coeur de métiers du Digital, participent ainsi à des projets commun.",
+        "logo": "",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/08/Digitalvillageparis3-ConvertImage-705x470.jpg",
+        "name": "Digital Village Paris",
+        "site": "http://digital-village.fr/coworking/paris?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 39,
+        "country": "France",
+        "city": "Paris",
+        "map": {
+          "address": "11 Rue de Magdebourg, Paris, France",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Véritable écosystème pour entrepreneurs, NetCoworking est un espace de coworking situé dans un des quartiers de Paris les plus agréables et dynamiques entre les places de l'Etoile et du Trocadéro dans le 16ème arrondissement.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/06/coworking-paris.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/06/coworking-paris1-705x263.png",
+        "name": "NetCoworking Paris Trocadéro",
+        "site": "http://www.netcoworking.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 40,
+        "country": "Thailand",
+        "city": "Phuket",
+        "map": {
+          "address": "Phang-nga, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "The SEA Coworking Space in Phuket Old Town is located opposite the BABA Museum on Phang-Nga Road. The SEA offers complete office structure including superfast internet, electric plug, colour laser printer, fax, scanner, photocopier, locker, organic drip coffee conner, pantry room, meeting rooms with presentation equipments for up to 15 coworkers.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/02/thesea-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/02/2015-01-22-14-50-24_deco-705x529.jpg",
+        "name": "The SEA Coworking Space",
+        "site": "https://www.facebook.com/theseacoworkingspace?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 41,
+        "country": "Thailand",
+        "city": "Phuket",
+        "map": {
+          "address": "74-75 MOO 5 WICHIT MUANGPHUKET PHUKET 83000, MUANGPHUKET, PHUKET, 83000, Thailand",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "BAYACO is a co-working space,where is an ECOSYSTEM service provider in Phuket, Located at Baan&Beyond(Homeworks) 1st Floor. BAYACO is suitable for the worker, startup, people who need the relax place and working on the peaceful atmosphere to create excellent works. We extremely provide the best service to our customer.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/09/Logobayaco-200x141.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/09/38171285_142132973364337_3780317638551404544_n-705x705.jpg",
+        "name": "BAYACO",
+        "site": "https://www.facebook.com/bayacophuket/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 42,
+        "country": "Thailand",
+        "city": "Phuket",
+        "map": {
+          "address": "Mai Khao, Phuket",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "We believe the fusion of inspiring situations and environments with adventurous talents will create a catalyst for creativity, innovation, entrepreneurship and change – all this on a boat.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2016/04/Coboat_Circle-2-200x141.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/04/Coboat_ECI1-705x397.jpg",
+        "name": "Coboat",
+        "site": "http://www.coboat.org/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 43,
+        "country": "Malaysia",
+        "city": "George Town",
+        "map": {
+          "address": "Scoopoint Pengkalan Weld Georgetown George Town Penang Malaysia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Scoopoint is not just a co-working space but it is a disruptive passion driven, interactive, collaborative, inspiring community & platform that makes exploring and discovering passion or ideas more personally meaningful.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/10/scoopoint_final-01-200x128.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/10/18839781_1451137511610527_8166929958358773636_o-1-705x369.jpg",
+        "name": "Scoopoint",
+        "site": "http://www.scoopoint.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 44,
+        "country": "Malaysia",
+        "city": "George Town",
+        "map": {
+          "address": "Wisma Yeap Chor Ee Pengkalan Weld Georgetown George Town Malaysia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "The first co-working space in Penang located at the heart of Penang - George Town. Beautifully built in a heritage building, it brings you back to the golden age of Penang while you lost your thoughts in work.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/05/@CAT-logo.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/05/coworking-space_2-705x705.jpg",
+        "name": "@CAT Penang",
+        "site": "http://acatpenang.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 45,
+        "country": "Malaysia",
+        "city": "George Town",
+        "map": {
+          "address": "Menara Livingston, Jalan Argyll, 10050 George Town, Pulau Pinang, Malaysia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "We are a new co-working & shared services office (serviced private offices) based in Georgetown, Penang in Malaysia. Our 18,000 sqft space is housed in Livingston Tower, an upcoming Multimedia Super Corridor (MSC) building, that is also home to MORE by Arang Coffee, Urban H Hotel, an event hall, a small but adequate gym (exclusive for hotel guests and building tenants – that means us",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/03/logo_Settlements-FINAL-200x43.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/03/DSC03785c-705x376.jpg",
+        "name": "Settlements",
+        "site": "http://www.settlements.work/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 46,
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "map": {
+          "address": "Level 13A, Fahrenheit Office Tower, Jalan Gading, Bukit Bintang, 55100, Kuala Lumpur, Malaysia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "PAPER + TOAST is the first coworking space in Malaysia. Established in 2010, our aim is to serve as a one stop community platform for entrepreneurs and startups to get together, gaining critical business skills & knowledge and collaborate.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/05/1-PT-logo-Main-Medium-200x258.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/05/Screen-Shot-2017-05-17-at-12.30.56-PM-705x435.png",
+        "name": "Paper + Toast",
+        "site": "http://paperandtoast.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 47,
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "map": {
+          "address": "Jalan Setia Utama AT U13/AT, Alam Nusantara, 40170 Shah Alam, Selangor, Malaysia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "KCX Social Office is the first co-working space in the Setia Alam with full back office facilities support. Located within 5min drive from Setia City Mall and Setia City Convention Centre. It is a brand new commercial area within the award wining best master-plan township.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/03/kcx-logo-200x200.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/03/cover-705x705.jpg",
+        "name": "KCX Social Office",
+        "site": "https://www.fb.com/kcxso?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 48,
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "map": {
+          "address": "WORQ Petaling Jaya Federal Territory of Kuala Lumpur Malaysia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "A 13000 sq ft of vibrant, inspiring, cozy and convenient space for anyone to work at our flexible hot desks, fixed desk or cozy private suites. It's located right next to the TTDI MRT station and for those who prefer driving, there are ample parking available.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2017/05/worq-200x67.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/05/lounge1-705x504.jpg",
+        "name": "WORQ Coworking Space – TTDI",
+        "site": "https://worq.space/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 49,
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "map": {
+          "address": "WORQ Subang, Jalan Pengaturcara U1/51a, Seksyen U1, Shah Alam, Selangor, Malaysia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "A 22500 sq ft of vibrant, inspiring, cozy and convenient space for anyone to work at our flexible hot desks, fixed desk or cozy private suites. It's located right next to the Subang LRT and KTM station and for those who prefer driving, there are ample parking available.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/11/White-on-Black-coworking-space-200x128.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/11/Subang-WORQ-sign-705x470.jpg",
+        "name": "WORQ Coworking Space – Subang",
+        "site": "https://worq.space/coworking-space/subang/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 50,
+        "country": "Indonesia",
+        "city": "Makassar",
+        "map": {
+          "address": "Jl. Mapala No.24, Tidung, Rappocini, Kota Makassar, Sulawesi Selatan 90222, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Kemae - Creative Hub merupakan collaborative working space (coworking space), sebuah ruang kerja bersama yang dapat kita manfaatkan untuk bekerja dengan sistem membership harian, mingguan, bulanan hingga tahunan.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/05/logo-kemae-200x200.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/05/WhatsApp-Image-2018-07-09-at-11.56.58-1-705x529.jpeg",
+        "name": "Kémae – Creative Hub",
+        "site": "http://coworking-makassar.business.site/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 51,
+        "country": "Indonesia",
+        "city": "Makassar",
+        "map": {
+          "address": " Jl. Dr. Sam Ratulangi, Mamajang, Kota Makassar, Sulawesi Selatan, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Coworking space, Startup Room, Class Room, Workshop Room, Meeting Room, Internet 10MB. All facilities Free.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/10/1013637_626505994144183_2304282860232400714_n-200x200.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/10/11064916_698230803638368_1696984180211487157_o-705x261.jpg",
+        "name": "Makassar Digital Lounge",
+        "site": "http://makassar.dilo.id/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 52,
+        "country": "Indonesia",
+        "city": "Tenggara",
+        "map": {
+          "address": " Jl. Dr. Sam Ratulangi, Mamajang, Kota Makassar, Sulawesi Selatan, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Salon de nomad Gili T. is first co-working space in Gili Trawangan. We are already running our first 'salon de nomad' in Korea and open our second space in Gili T.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/05/DSC06511-e1526542222996-200x149.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/05/%E1%84%89%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A9%E1%86%BC-%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%A6-705x290.jpg",
+        "name": "salon de nomad Gili T.",
+        "site": "https://www.facebook.com/salondenomad.gili/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 53,
+        "country": "Indonesia",
+        "city": "Ubud",
+        "map": {
+          "address": " Outpost, Jalan Raya Singakerta, MAS, Ubud, Bali, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Outpost provides what you need to be productive: comfy office chairs, redundant internet, vibrant community of professionals living the dream. With a masseuse on staff, yoga and two pools to dip into, we are more than just work. Come be a part of our vibrant community.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2016/01/Outpost_Logo_Box-200x200.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/01/2241284-Bali-Spirit-Hotel-amp-Spa-Area-Attractions-2-RTS-705x470.jpg",
+        "name": "Outpost",
+        "site": "http://www.outpost-asia.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 54,
+        "country": "Indonesia",
+        "city": "Ubud",
+        "map": {
+          "address": "Jalan Made Lebah No.12, Peliatan, Gianyar, Bali, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "To this newly opened coworking space, scientists come for sabbaticals, students come to learn remotely, entrepreneurs and digital nomads come to work and socialize. The space has one main coworking area on first floor with desks and chairs, a small library and several cozy reading corners.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2018/04/icon-e1523091351791-200x207.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2018/04/Coworking-Openness-705x397.jpeg",
+        "name": "IGDORE Indonesia",
+        "site": "https://igdore.org/coworking-space/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 55,
+        "country": "Indonesia",
+        "city": "Bali",
+        "map": {
+          "address": "Jl. Bumi Ayu Gg. Pungut Sari No.6, Sanur, Denpasar Sel., Kota Denpasar, Bali 80228, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "A Bali based coworking hub and international service provider for tech startups. Livit Hub is much more than a shared office: it’s a dynamic, innovative place created for motivated people to come together to create, build and develop amazing businesses, while keeping a healthy work & play balance.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2019/03/livit-hub-logo-1920-x1080-1-200x174.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2019/03/resize1-1-705x477.jpg",
+        "name": "Livit Hub Bali",
+        "site": "https://liv.it/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 56,
+        "country": "Indonesia",
+        "city": "Bali",
+        "map": {
+          "address": "Jalan Danau Poso No.38, Denpasar Selatan, Kota Denpasar, Bali, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Kumpul coworking space is located within Rumah Sanur - a creative hub in Sanur, Bali that works to grow social entrepreneurship.Kumpul has a relaxed atmosphere with all the facilities of a modern office and a collaborative environment where members can be productive while engaging with a thriving and dynamic community.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/09/Logo-Kumpul-coworking-space1-200x79.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/09/IMG_6188-1024x683-705x470.jpg",
+        "name": "Kumpul Coworking Space",
+        "site": "http://www.kumpul.co/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 57,
+        "country": "Indonesia",
+        "city": "Bali",
+        "map": {
+          "address": "Jl. Kusuma Sari, Denpasar Sel., Kota Denpasar, Bali, Indonesien",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Genius Café is a series of coworking cafes, where entrepreneurship, healthy lifestyle, education, wellbeing and care for the environment meetup. We are home for the new generation of entrepreneurs: those who take their businesses on the move, remotely or on a global scale, seek to constantly grow and want to strike a perfect work-life balance",
+        "logo": "NO-LOGO",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2017/09/Genius-Caf%C3%A9-Sanur-705x411.jpg",
+        "name": "Genius Café Sanur",
+        "site": "http://geniuscafebali.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 58,
+        "country": "Indonesia",
+        "city": "Bali",
+        "map": {
+          "address": "ESTUBIZI Coworking Space, Jalan Wolter Monginsidi, Rawa Barat, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "ESTUBIZI Coworking Space is one of the most creative coworking in Jakarta.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2016/05/ESTUBIZI_Printed-by-Subur-200x222.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2016/05/ESTUBIZI_Cover-Photo-705x529.png",
+        "name": "ESTUBIZI",
+        "site": "http://www.estubizi.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 59,
+        "country": "Indonesia",
+        "city": "Surabaya",
+        "map": {
+          "address": "Jl. Mayjend. Yono Soewoyo Kav. 3 Surabaya",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Forward Factory housed in West Surabaya, Spazio, not just a place of work for participants Start Surabaya to develop each, but they will also collaborate with the various communities and businesses as well as creative technology in Surabaya.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2015/06/logo-200x59.png",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2015/06/Forward-Factory-705x470.jpg",
+        "name": "Forward Factory",
+        "site": "http://www.startsurabaya.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    },
+    {
+        "ID": 60,
+        "country": "Thailand",
+        "city": "Pattaya",
+        "map": {
+          "address": "132 Thanon Chaiyaphruek, Na Kluea, Amphoe Bang Lamung, Province de Chonburi 20150, Thaïlande",
+          "lat": "51.5255905",
+          "lng": "-0.2549043999999867"
+        },
+        "description": "Anchor space is a unique 500m2 coworking area located in Jomtiem - South Pattaya - Thailand.It's a stimulating work environment with all facilities needed by freelancers, small companies or independants workers.",
+        "logo": "https://coworkingmap.org/wp-content/uploads/2014/02/Anchor-Coworking-Space-Pattaya-Jomtien-Thailand-Brick-walls-960x720-200x150.jpg",
+        "cover": "https://coworkingmap.org/wp-content/uploads/2014/02/IMG_6871-705x529.jpg",
+        "name": "Anchor Coworking Space",
+        "site": "http://anchorcoworking.com/?utm_source=coworkingmap.org&utm_medium=website&utm_campaign=Coworking%20Map"
+    }
+
+
+]

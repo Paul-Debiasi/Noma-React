@@ -1,0 +1,52 @@
+.Main-fav {
+	min-height: 86vh;
+	// width: 100vw;
+	// background-color: black;
+	background: #e2f5fd;
+	background-size: cover;
+	background-attachment: scroll;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+	.back-fav {
+		grid-column: 1;
+		grid-row: 1;
+		margin: 0 50px;
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 20px;
+
+		.back {
+			grid-column: 1/1;
+			justify-self: start;
+			align-self: center;
+			display: flex;
+			align-items: center;
+			.back-icons {
+				cursor: pointer;
+				font-size: 30px;
+				margin-top: 6px;
+			}
+		}
+
+		div {
+			display: flex;
+			align-items: center;
+			grid-column: 2/2;
+			justify-content: space-evenly;
+			h3 {
+				font-size: 40px;
+				text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+				color: white;
+				letter-spacing: 4px;
+			}
+		}
+	}
+
+	.fav-list {
+		display: grid;
+		gap: 50px;
+		grid-template-columns: repeat(3, 1fr);
+		justify-items: center;
+	}
+}
